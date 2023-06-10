@@ -1,0 +1,14 @@
+{
+  "welcomeFile": "/test6podplugin/index.html",
+  "authenticationMethod": "none",
+  "logout": {
+    "logoutEndpoint": "/do/logout"
+  },
+  "routes": [
+    {
+      "source": "^/test6podplugin/(.*)$",
+      "target": "$1",
+      "localDir": "webapp"
+    }
+  ]
+}
