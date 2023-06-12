@@ -1,6 +1,6 @@
 # DMC UX UI5 BAS UC
 
-[Video tutorial from Andy Nayman](https://sap.sharepoint.com/:v:/r/teams/ManufacturingNA2-DigitalManufacturingHuddle-Monthly2/Shared Documents/Digital Manufacturing Huddle - Monthly/Meeting with Nyman, Andy-20230609_080858-Meeting Recording.mp4?csf=1&web=1&e=KAzAOb)
+[Video tutorial from Andy Nayman](https://sap.sharepoint.com/teams/ManufacturingNA2-DigitalManufacturingHuddle-Monthly2/_layouts/15/stream.aspx?id=%2Fteams%2FManufacturingNA2%2DDigitalManufacturingHuddle%2DMonthly2%2FShared%20Documents%2FDigital%20Manufacturing%20Huddle%20%2D%20Monthly%2FMeeting%20with%20Nyman%2C%20Andy%2D20230609%5F080858%2DMeeting%20Recording%2Emp4)
 
 ## UX Use-Case-01: View Plug-in – Display Text (1W)
 As a system, I want a custom view plugin that displays the text “Hello World” so that the world knows I am here.
