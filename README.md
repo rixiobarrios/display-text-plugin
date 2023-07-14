@@ -2,7 +2,7 @@
 
 [Video tutorial from Andy Nayman](https://sap.sharepoint.com/teams/ManufacturingNA2-DigitalManufacturingHuddle-Monthly2/_layouts/15/stream.aspx?id=%2Fteams%2FManufacturingNA2%2DDigitalManufacturingHuddle%2DMonthly2%2FShared%20Documents%2FDigital%20Manufacturing%20Huddle%20%2D%20Monthly%2FMeeting%20with%20Nyman%2C%20Andy%2D20230609%5F080858%2DMeeting%20Recording%2Emp4)
 
-## UX Use-Case-01: View Plug-in – Display Text (1W)
+## UX Use-Case-01: View Plug-in – Display Text
 As a system, I want a custom view plugin that displays the text “Hello World” so that the world knows I am here.
 
 - Step 1 - Go to Business Application Studio (BAS)
